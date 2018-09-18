@@ -1,4 +1,4 @@
-# Style Guide Gujarati (gu)
+# Style Guide Gujarati (gu-IN)
 
 ## Introduction
 
