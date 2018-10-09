@@ -5,4 +5,4 @@ Mozilla Gujarat localization Team
 
 ## Issues
 
- - [If you're planning for an event](https://github.com/mozguj/L10n-gu-IN/issues/new)
+ - [If you're planning for an event](https://github.com/mozguj/L10n-gu-IN/issues/new?template=event.md)
