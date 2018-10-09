@@ -3,6 +3,13 @@ Mozilla Gujarat localization Team
 
 * [Style Guides](https://github.com/mozguj/L10n-gu-IN/tree/master/gu-IN) 
 
+## Resources
+
+For resources specific to learning Pontoon, there's no better compilation than [this](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/).
+
+For our resources, please take a look at [our wiki page](https://github.com/mozguj/L10n-gu-IN/wiki).
+
+
 ## Issues
 
  - [If you're planning for an event](https://github.com/mozguj/L10n-gu-IN/issues/new?template=event.md)
