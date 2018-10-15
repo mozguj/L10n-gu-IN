@@ -7,7 +7,7 @@ Mozilla Gujarat localization Team
 * It is the official language for the state of Gujarat on the west coast of India and some other territories and regions such as Daman, Diu, Dadra, and Nagar Haveli.
 * Gujarati is also spoken in many countries including Bangladesh, Botswana, Canada, Fiji, Kenya, Malawi, Mauritius, Mozambique, Oman, Pakistan, Singapore, South Africa, Tanzania, Uganda, United Kingdom, United States of America,     Zambia and Zimbabwe.
 
-* [Style Guides](https://github.com/mozguj/L10n-gu-IN/tree/master/gu-IN) 
+### [Style Guides](https://github.com/mozguj/L10n-gu-IN/tree/master/gu-IN) 
 
 ## Resources
 
