@@ -25,19 +25,27 @@ For our resources, please take a look at [our wiki page](https://github.com/mozg
 
 ```
 ## Goal: 
-[What you'd like created]
+[One line goal description] 
 
-## Info: 
-[What it will be used for/where it will go]
+## Related Issues & Links: 
+[Reference meta issues and past issues] #
 
-## Style Information: 
-[What you want it to look like, link to references, similar things etc.]
+## Roles:
 
-## Deadline: 
-[When would you like this done by]
+Responsible:
 
-## Tag: 
-[Design Needed, Developer Needed, Question, Support Needed]
+Accountable:
+
+Supporting:
+
+Consulted:
+
+Informed: 
+
+## Required: 
+- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th) 
+- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th) 
+- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th)
 ```
  
  ## Contribution
