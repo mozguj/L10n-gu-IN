@@ -21,7 +21,7 @@ For our resources, please take a look at [our wiki page](https://github.com/mozg
  
  ## Issue Template:
 
-[Click here](https://github.com/mozguj/L10n-gu-IN/issues/new?template=help.md)) to create issue with default template
+[Click here](https://github.com/mozguj/L10n-gu-IN/issues/new?template=help.md) to create issue with default template
 
 ```
 ## Goal: 
