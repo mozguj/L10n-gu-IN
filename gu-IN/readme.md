@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Style guides define the standard against which we determine a translation's quality. They contain rules that are both defined by Mozilla and by Mozilla's localization communities on how to best translate text in Mozilla products, websites, and other projects. By following these rules, a translator has a better chance of producing a high quality translation that represents Mozilla values and culture
+Style guides define the standard against which we determine a translation's quality. They contain rules that are both defined by Mozilla and by Mozilla's localization communities on how to best translate text in Mozilla products, websites, and other projects. By following these rules, a translator has a better chance of producing a high quality translation that represents Mozilla values and culture.
 
 ## Why should we Localize?
 
