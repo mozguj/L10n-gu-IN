@@ -1,4 +1,4 @@
-#### Words that we used to get confused while translating in Gujarati. 
+## Words that we used to get confused while translating in Gujarati. 
 
 A:
 
@@ -147,5 +147,3 @@ X:
 Y:
 
 Z:
-
-* Published on HackMD
